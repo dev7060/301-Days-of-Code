@@ -1,3 +1,4 @@
 Day #1: Focussed on the programs covering the basic concepts of C++ 
 Day #2: More C++ programs *Yeet yeet* 
 Day #3: Practice of pattern programs in C++
+Day #4: Started working on a calculator project and finished the basic layout
