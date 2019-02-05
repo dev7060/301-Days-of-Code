@@ -2,3 +2,5 @@ Day #1: Focussed on the programs covering the basic concepts of C++
 Day #2: More C++ programs *Yeet yeet* 
 Day #3: Practice of pattern programs in C++
 Day #4: Started working on a calculator project and finished the basic layout
+Day #5: Started with the Data Structures stuff. Array and its operatons such as traversal, deletion and insertion at beginning, ending and at particular locations.
+Day #6: Continued array data structure operations. Implemented algorithms: Linear search, binary search and bubble sorting.
