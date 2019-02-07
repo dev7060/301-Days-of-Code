@@ -6,3 +6,4 @@ Day #5: Started with the Data Structures stuff. Array and its operatons such as 
 Day #6: Continued array data structure operations. Implemented algorithms: Linear search, binary search and bubble sorting.
 Day #7: Worked with linked list data structure. Performed operations: Traversing, insertion at beginning and insertion at end.
 Day #8: Continued working with linked list data structure. Implemented deletion at beginning and end logics.
+Day #9: Started learning web development from freeCodeCamp
