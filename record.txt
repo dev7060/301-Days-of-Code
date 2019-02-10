@@ -9,3 +9,4 @@ Day #8: Continued working with linked list data structure. Implemented deletion 
 Day #9: Started learning web development from freeCodeCamp
 Day #10: Continued learning web developement on freeCodeCamp. Completed like half of the Basic CSS section.
 Day #11: Completed the freeCodeCamp's Basic CSS section and did some C++ programming.
+Day #12: applied visual design through freeCodeCamp
