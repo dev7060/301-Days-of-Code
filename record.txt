@@ -11,3 +11,4 @@ Day #10: Continued learning web developement on freeCodeCamp. Completed like hal
 Day #11: Completed the freeCodeCamp's Basic CSS section and did some C++ programming.
 Day #12: applied visual design through freeCodeCamp
 Day #13: continued applied visual design from freeCodeCamp
+Day #14: Continued applied visual design from freeCodeCamp plus some C++ programming.
