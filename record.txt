@@ -16,3 +16,4 @@ day 15: completed the applied visual design section. Geeeeeez
 Day 16: Did the challenges of "Introduction to the Applied Accessibility Challenges" from freeCodeCamp. Few more reamining.
 Day 17: Completed the applied accessibility challenges plus started building discord bot
 Day 18: Completed the sections "Responsive Web Design Principles" and "CSS Flexbox" from freeCodeCamp.
+Day 19: Did some Introduction to the CSS Grid challenges
