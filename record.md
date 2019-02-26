@@ -17,3 +17,4 @@ Day 16: Did the challenges of "Introduction to the Applied Accessibility Challen
 Day 17: Completed the applied accessibility challenges plus started building discord bot <br/>
 Day 18: Completed the sections "Responsive Web Design Principles" and "CSS Flexbox" from freeCodeCamp. <br/>
 Day 19: Did some Introduction to the CSS Grid challenges <br/>
+Day 20: Completed the challenges of the CSS grid section from freeCodeCamp.  Plus started with batch programming. <br/>
