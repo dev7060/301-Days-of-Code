@@ -19,3 +19,4 @@ Day 18: Completed the sections "Responsive Web Design Principles" and "CSS Flexb
 Day 19: Did some Introduction to the CSS Grid challenges <br/>
 Day 20: Completed all the challenges of the CSS grid section from freeCodeCamp.  Plus started with batch programming. <br/>
 Day 21: Continued learning Batch programming <br/>
+Day 22: Continued learning Batch programming (escape characters), plus did some coding of string.h functions in C++ <br/>
