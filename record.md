@@ -22,4 +22,4 @@ Day 21: Continued learning Batch programming <br/>
 Day 22: Continued learning Batch programming (escape characters), plus did some coding of string.h functions in C++ <br/>
 Day 23: Continued learning Batch programming. Covered topics: mathematical expressions, input, labels, goto, comments. <br/>
 Day 24: Continued learning Batch programming. Covered topics: fucntions, arguments, return, local scope <br/>
-Day 25: Did coding in batch scipting language. Covered topics: return , if, comparison operators, else, nesting <br/>
+Day 25: Did coding in batch scripting language. Covered topics: return , if, comparison operators, else, nesting <br/>
