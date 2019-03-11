@@ -23,3 +23,4 @@ Day 22: Continued learning Batch programming (escape characters), plus did some 
 Day 23: Continued learning Batch programming. Covered topics: mathematical expressions, input, labels, goto, comments. <br/>
 Day 24: Continued learning Batch programming. Covered topics: fucntions, arguments, return, local scope <br/>
 Day 25: Did coding in batch scripting language. Covered topics: return , if, comparison operators, else, nesting <br/>
+Day 26: Continued batch programming. Coding covered the concepts: delayed variable expansion, while loop, for loop (through numbers and directories) <br/>
