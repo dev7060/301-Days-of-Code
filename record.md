@@ -24,3 +24,4 @@ Day 23: Continued learning Batch programming. Covered topics: mathematical expre
 Day 24: Continued learning Batch programming. Covered topics: fucntions, arguments, return, local scope <br/>
 Day 25: Did coding in batch scripting language. Covered topics: return , if, comparison operators, else, nesting <br/>
 Day 26: Continued batch programming. Coding covered the concepts: delayed variable expansion, while loop, for loop (through numbers and directories) <br/>
+Day 27: Programming in batch scripting language: for loops through files and file content. PLus started working on freeCodeCamp's tribute page. <br/>
