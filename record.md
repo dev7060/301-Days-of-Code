@@ -26,3 +26,4 @@ Day 25: Did coding in batch scripting language. Covered topics: return , if, com
 Day 26: Continued batch programming. Coding covered the concepts: delayed variable expansion, while loop, for loop (through numbers and directories) <br/>
 Day 27: Programming in batch scripting language: for loops through files and file content. PLus started working on freeCodeCamp's tribute page. <br/>
 Day 28: started wroking on my cli based typing practice application written in C </br>
+Day 29: Worked with Bootstrap framework. Buttons, containers and some other basic stuff etc. </br>
