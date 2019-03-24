@@ -28,3 +28,4 @@ Day 27: Programming in batch scripting language: for loops through files and fil
 Day 28: started wroking on my cli based typing practice application written in C </br>
 Day 29: Worked with Bootstrap framework. Buttons, containers and some other basic stuff etc. </br>
 Day 30: Continued bootstrap learning. Covered: Button Styling, Grid Layouts, Responsive Layouts </br>
+Day 31: Continued with bootstrap. Messing around here and there, but gotta say, not the productive sessions <br/>
