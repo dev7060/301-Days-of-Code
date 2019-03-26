@@ -30,3 +30,4 @@ Day 29: Worked with Bootstrap framework. Buttons, containers and some other basi
 Day 30: Continued bootstrap learning. Covered: Button Styling, Grid Layouts, Responsive Layouts </br>
 Day 31: Continued with bootstrap. Messing around here and there, but gotta say, not the productive sessions <br/>
 Day 32: Reviewed some basic web dev stuff. Plus solved some coding problems using C language. <br/>
+Day 33: Continued solving programming problems using C language <br/>
