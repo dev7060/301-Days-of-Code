@@ -32,3 +32,4 @@ Day 31: Continued with bootstrap. Messing around here and there, but gotta say, 
 Day 32: Reviewed some basic web dev stuff. Plus solved some coding problems using C language. <br/>
 Day 33: Continued solving programming problems using C language <br/>
 Day 34: Continued solving porgramming problems using C language. Now at one point, I literally thought there's something wrong with compiler or background stuff, which isn't the case. Should figure out the issue in my code soon.<br/>
+Day 35: Completed the freeCodeCamp's survey form project <br/>
