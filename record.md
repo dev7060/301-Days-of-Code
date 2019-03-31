@@ -36,3 +36,4 @@ Day 35: Completed the freeCodeCamp's survey form project <br/>
 Day 36: Started with some basic JS challenges from freeCodeCamp <br/>
 Day 37: Continued solving challenges of Basic Javascript section from freeCodeCamp <br/>
 Day 38: Continued solving Basic Javascript section challenges from freeCodeCamp </br>
+Day 38, session 2: Continued solving Basic Javascript section challenges from freeCodeCamp </br>
