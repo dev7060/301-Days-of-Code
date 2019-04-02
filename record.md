@@ -38,3 +38,4 @@ Day 37: Continued solving challenges of Basic Javascript section from freeCodeCa
 Day 38: Continued solving Basic Javascript section challenges from freeCodeCamp <br/>
 Day 38, session 2: Continued solving Basic Javascript section challenges from freeCodeCamp <br/>
 Day 39: Continued solving Basic JS section challenges from freeCodeCamp <br/>
+Day 40: Completed all the Basic JS challenges of @freeCodeCamp except for the two that I haven't got yet. <br/>
