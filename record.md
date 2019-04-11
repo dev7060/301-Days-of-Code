@@ -40,3 +40,4 @@ Day 38, session 2: Continued solving Basic Javascript section challenges from fr
 Day 39: Continued solving Basic JS section challenges from freeCodeCamp <br/>
 Day 40: Completed all the Basic JS challenges of @freeCodeCamp except for the two that I haven't got yet. <br/>
 Day 41: Started working on the portfolio site. <br/>
+Day 42: Practiced some batch programming (menus), plus started with freeCodeCamp's ES6 challenges. <br>
