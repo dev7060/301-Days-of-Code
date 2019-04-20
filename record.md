@@ -42,3 +42,4 @@ Day 40: Completed all the Basic JS challenges of @freeCodeCamp except for the tw
 Day 41: Started working on the portfolio site. <br/>
 Day 42: Practiced some batch programming (menus), plus started with freeCodeCamp's ES6 challenges. <br>
 Day 43: Made some programs using C language <br/>
+Day 44: Started working on a CLI based password manager written in C language https://github.com/k9-devs/Ninik <br/>
