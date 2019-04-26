@@ -45,3 +45,4 @@ Day 43: Made some programs using C language <br/>
 Day 44: Started working on a CLI based password manager written in C language https://github.com/k9-devs/Ninik <br/>
 Day 45: Proceeded with ES6 challenges from @freeCodeCamp . And gotta say, stuff is starting to be tricky now. <br>
 Day 46: Solved some CodeChef problems using C language. <br>
+Day 47: Worked on some more C language programs covering various concepts. <br>
