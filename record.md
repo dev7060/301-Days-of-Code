@@ -47,3 +47,4 @@ Day 45: Proceeded with ES6 challenges from @freeCodeCamp . And gotta say, stuff 
 Day 46: Solved some CodeChef problems using C language. <br>
 Day 47: Worked on some more C language programs covering various concepts. <br>
 Day 48: Continued programming in C language covering several concepts. <br>
+Day 49: Worked on the Ninik password manager https://github.com/k9-devs/Ninik. Added the functionalities of saving and retrieving passwords. <br>
