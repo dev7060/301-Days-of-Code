@@ -48,3 +48,4 @@ Day 46: Solved some CodeChef problems using C language. <br>
 Day 47: Worked on some more C language programs covering various concepts. <br>
 Day 48: Continued programming in C language covering several concepts. <br>
 Day 49: Worked on the Ninik password manager https://github.com/k9-devs/Ninik. Added the functionalities of saving and retrieving passwords. <br>
+Day 50: Worked on the password manager app. Successsfully implemented the delete entries functionality. Plus some other improvements like automatically resizing of window, changing the windows' title etc. <br>
