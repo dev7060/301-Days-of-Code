@@ -50,3 +50,4 @@ Day 48: Continued programming in C language covering several concepts. <br>
 Day 49: Worked on the Ninik password manager https://github.com/k9-devs/Ninik. Added the functionalities of saving and retrieving passwords. <br>
 Day 50: Worked on the password manager app. Successsfully implemented the delete entries functionality. Plus some other improvements like automatically resizing of window, changing the windows' title etc. <br>
 Day 51: Continued working on the password manager. Implemented the functionality of master password and for changing it as well. <br>
+Day 52: Implemented the encrypted storage of passwords (Ninik Password Manager). Also the decryption part as well. But the algo used for now is very basic. Since the source code is open, one can design his/her own algo to encrypt passwords. More security! <br>
