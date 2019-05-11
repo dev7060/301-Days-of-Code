@@ -53,3 +53,4 @@ Day 51: Continued working on the password manager. Implemented the functionality
 Day 52: Implemented the encrypted storage of passwords (Ninik Password Manager). Also the decryption part as well. But the algo used for now is very basic. Since the source code is open, one can design his/her own algo to encrypt passwords. More security! <br>
 Day 53: More C language programming. Concepts covered: file handling, random number generation plus many more <br>
 Day 54: Continued C language programming. Used the concepts of file handling and rand() function. Also tried to combine some batch scripting with C. Some things didn't work as expected, but anyway.<br>
+Day 55: Solved some practice programming problems using C language. <br>
