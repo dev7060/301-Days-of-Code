@@ -54,3 +54,4 @@ Day 52: Implemented the encrypted storage of passwords (Ninik Password Manager).
 Day 53: More C language programming. Concepts covered: file handling, random number generation plus many more <br>
 Day 54: Continued C language programming. Used the concepts of file handling and rand() function. Also tried to combine some batch scripting with C. Some things didn't work as expected, but anyway.<br>
 Day 55: Solved some practice programming problems using C language. <br>
+Day 56: Started working on a text editor using C langauge https://github.com/k9-devs/Text-Editor <br>
