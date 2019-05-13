@@ -55,3 +55,4 @@ Day 53: More C language programming. Concepts covered: file handling, random num
 Day 54: Continued C language programming. Used the concepts of file handling and rand() function. Also tried to combine some batch scripting with C. Some things didn't work as expected, but anyway.<br>
 Day 55: Solved some practice programming problems using C language. <br>
 Day 56: Started working on a text editor using C langauge https://github.com/k9-devs/Text-Editor <br>
+Day 57: Worked on the password manager. Now it can generate random strong passwords using small & capital alphabets, digits and special characters. <br>
