@@ -57,3 +57,4 @@ Day 55: Solved some practice programming problems using C language. <br>
 Day 56: Started working on a text editor using C langauge https://github.com/k9-devs/Text-Editor <br>
 Day 57: Worked on the password manager. Now it can generate random strong passwords using small & capital alphabets, digits and special characters. <br>
 Day 58: Worked on the password manager and text editor. Text editor can now open files. Password manager is stuck with a bug. <br>
+Day 59: Worked on the password manager. Started implementing encryption and decryption of master password. <br>
