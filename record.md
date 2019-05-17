@@ -59,3 +59,4 @@ Day 57: Worked on the password manager. Now it can generate random strong passwo
 Day 58: Worked on the password manager and text editor. Text editor can now open files. Password manager is stuck with a bug. <br>
 Day 59: Worked on the password manager. Started implementing encryption and decryption of master password. <br>
 Day 60: Completed and tested all the basic functions of the password manager. Just some final touch ups and it'll be ready for the beta release. <br>
+Day 61: Solved some programming problems using C Language. Gotta say, most of the submitted solutions didn't work. <br>
