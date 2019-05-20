@@ -61,3 +61,4 @@ Day 59: Worked on the password manager. Started implementing encryption and decr
 Day 60: Completed and tested all the basic functions of the password manager. Just some final touch ups and it'll be ready for the beta release. <br>
 Day 61: Solved some programming problems using C Language. Gotta say, most of the submitted solutions didn't work. <br>
 Day 62: Worked on the password manager and finally v1.0(beta) is released https://github.com/k9-devs/Ninik/releases.
+Day 63: Made a word lists combiner using C https://github.com/mbhup/ListCom
