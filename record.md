@@ -64,3 +64,4 @@ Day 62: Worked on the password manager and finally v1.0(beta) is released https:
 Day 63: Made a word lists combiner using C https://github.com/mbhup/ListCom <br>
 Day 64: Started working on a CLI based money manager application https://github.com/mbhup/Money-Manager <br>
 Day 65: Worked on the money manager. Implemented read() by name, 'month & year' and amount. Ex_cal() in progress. <br>
+Day 66: Solved some CodeChef problems using C. <br>
