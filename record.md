@@ -66,3 +66,4 @@ Day 64: Started working on a CLI based money manager application https://github.
 Day 65: Worked on the money manager. Implemented read() by name, 'month & year' and amount. Ex_cal() in progress. <br>
 Day 66: Solved some CodeChef problems using C. <br>
 Day 67: More C programming. Made a random number guess game. <br>
+Day 68: Solved CodeChef problems using C <br>
