@@ -68,3 +68,4 @@ Day 66: Solved some CodeChef problems using C. <br>
 Day 67: More C programming. Made a random number guess game. <br>
 Day 68: Solved CodeChef problems using C <br>
 Day 69: Started working on a Calculator using HTML, CSS and JS. <br>
+Day 70: C++ coding, worked on the calculator https://github.com/mbhup/Octantis-Calci/ <br>
